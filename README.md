@@ -49,5 +49,5 @@ Here are some ideas to get you started:
 
 ## Objects:
 1. 내 블로그 만들기 - 회원가입과 ML API 등
-2. 리눅스 1급 따기 &정보처리기사
+2. 리눅스 1급 & 정보처리기사 따기
 3. 이직 준비 (한참 걸릴 듯)
