@@ -47,7 +47,22 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/SVN-3E7FC1?style=flat-square" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 
-## Objects:
-1. 내 블로그 만들기 - 회원가입과 ML API 등
-2. 리눅스 1급 & 정보처리기사 따기
-3. 이직 준비 (한참 걸릴 듯)
+## 🎯 Object Goals:
+1. 내 블로그 만들기
+  - Stack:
+    SSG: Astro
+    Deploy: Netlify
+  - 로그인 > OAuth 활용
+  - 백엔드 사용 > firebase? GCP? 직접 구현? 그 외?
+    주 기능: 댓글, Admin, 카테고리 분류, 강화된 검색, 간편한 글 확인, 시리즈
+  - 추가 기능: 생성형(Generative) AI 에이전트 구축
+    포탈 기능: 추가 개발할 Toy 프로젝트 연결, 포트폴리오
+2. 자격증 준비
+  - 정보처리기사 실기
+3. AI 공부
+  - ML, DL, NLP, LLM, Generative AI
+4. 이직 준비
+
+## ⌛️ Doing:
+- 블로그 기본 형태 개발
+  - Astro + React 공부
