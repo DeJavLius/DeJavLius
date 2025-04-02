@@ -62,6 +62,7 @@ Here are some ideas to get you started:
 3. AI 공부
   - ML, DL, NLP, LLM, Generative AI
 4. 이직 준비
+5. github 레포 정리
 
 ## ⌛️ Doing:
 - 블로그 기본 형태 개발
