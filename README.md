@@ -62,8 +62,18 @@ Here are some ideas to get you started:
 3. AI 공부
   - ML, DL, NLP, LLM, Generative AI
 4. 이직 준비
-5. github 레포 정리
+5. Github 레포 정리
+6. 오래된 프로젝트 관리
+  - 프로젝트 중 재사용 가능한 것을 선별하여 개선
+  - 신규 프로젝트와 연결 목표
+7. 나만의 사이트 개발
 
 ## ⌛️ Doing:
-- 블로그 기본 형태 개발
-  - Astro + React 공부
+- [/] 블로그 기본 형태 개발
+  - [ ] Astro + React 공부
+  - [/] JS, TS 재 공부
+- [/] 자격증 정보처리기사 실기 준비
+- [ ] AI 공부
+- [/] Github 레포 정리
+- [/] 오래된 프로젝트 관리
+  - [ ] 개선
