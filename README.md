@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 ## Skill
 ### Backend:
 #### Framework:
-`*`<img src="https://img.shields.io/badge/SpringFramework-6DB33F?style=flat-square&logo=Spring&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-<img src="https://img.shields.io/badge/MyBatis-000000?style=flat-square" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+<img src="https://img.shields.io/badge/SpringFramework-6DB33F?style=flat-square&logo=Spring&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>*</a>&nbsp;
+<img src="https://img.shields.io/badge/MyBatis-000000?style=flat-square" style="height : auto; margin-left : 10px; margin-right : 10px;"/>*</a>&nbsp;
 <img src="https://img.shields.io/badge/QueryDSL-000000?style=flat-square" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 #### Language:
-`*`<img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=OpenJDK&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-`*`<img src="https://img.shields.io/badge/OracleDB-F80000?style=flat-square" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=OpenJDK&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>*</a>&nbsp;
+<img src="https://img.shields.io/badge/OracleDB-F80000?style=flat-square" style="height : auto; margin-left : 10px; margin-right : 10px;"/>*</a>&nbsp;
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 
 ### Frontend:
@@ -40,8 +40,8 @@ Blog: <img src="https://img.shields.io/badge/astro-BC52EE?style=flat-square&logo
 #### Language:
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 #### Tools:
-`*`<img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-`*`<img src="https://img.shields.io/badge/Intellij-000000?style=flat-square&logo=intellijidea&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+<img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>*</a>&nbsp;
+<img src="https://img.shields.io/badge/Intellij-000000?style=flat-square&logo=intellijidea&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>*</a>&nbsp;
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <img src="https://img.shields.io/badge/VSCode-3B99FC?style=flat-square" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 ##### VCS:
@@ -50,7 +50,7 @@ Blog: <img src="https://img.shields.io/badge/astro-BC52EE?style=flat-square&logo
 ##### Deploy:
 <img src="https://img.shields.io/badge/amazonec2-FF9900?style=flat-square" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <img src="https://img.shields.io/badge/netlify-00C7B7?style=flat-square" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-`?`<img src="https://img.shields.io/badge/OCI-EC1C24?style=flat-square" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+<img src="https://img.shields.io/badge/OCI-EC1C24?style=flat-square" style="height : auto; margin-left : 10px; margin-right : 10px;"/>?</a>&nbsp;
 
 ###### 추가설명
 - `*`: 주요 사용
