@@ -13,7 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 🔭 안녕 세계!
+<div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 다 개발할 결심 </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">  <li> 블로그 개발 중</li>    <li> Astro, Netlify, React</li> <li> 27년도 이직 목표</li> <li> 휴먼컨설팅그룹(HCG) 재직 중 (23.3 ~ )</li>    <li> PO R&D팀 시스템 개발자 </li>    <li> 급여 업무 간 시스템 업무 도움 및 시스템 개선</li>    <li> 연말정산 시스템 개선</li> <li> FullStack 개발자 목표</li>    <li> 취미: AI 개발자 </div> 
+    </div>
 ## Skill
 ### Backend:
 #### Framework:
@@ -51,8 +54,22 @@ Blog: <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo
 <img src="https://img.shields.io/badge/Amazonec2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <img src="https://img.shields.io/badge/OCI-EC1C24?style=flat-square" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-
-
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
+    <div align= "center"> <a href=https://link-devlog.netlify.app/blog/> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://link-devlog.netlify.app/blog/"> </a>
+         <a href=https://blog.naver.com/lmo9903> <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=https://blog.naver.com/lmo9903"> </a>
+         <a href=https://peppered-estimate-067.notion.site/8221936c847c4511b5151df5495a8f32> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://peppered-estimate-067.notion.site/8221936c847c4511b5151df5495a8f32"> </a>
+         <a href=mailto:lmo9903@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lmo9903@gmail.com"> </a>
+          </div>  <br> 
+    <div align= "center">  </div> 
+    </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=DeJavLius&bg_color=60,0e94af,22991a&title_color=ffffff&text_color=ffffff"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeJavLius&layout=compact&bg_color=60,0e94af,22991a&title_color=ffffff&text_color=ffffff"
+           /> </div> 
+    </div>
+    
+# 🔭 안녕 세계!
 ## 🎯 Object Goals:
 1. 내 블로그 만들기
   - Stack:
