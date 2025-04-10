@@ -25,6 +25,11 @@ Here are some ideas to get you started:
     - 연말정산 시스템 개선
 - 🌱 FullStack, DevOps 개발자 되기
   - 취미: AI 개발자
+- 이력서(resume), portfolio를 위해 최신화 중
+
+## 소개
+- Backend Developer
+- 다양한 경험을 하는 것을 즐기며 오래된 기술도 학습하여 최신 기술과 발전 및 구현 과정을 비교하고 있음
 
 <div>
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🌟 Skill </h2>
@@ -228,14 +233,23 @@ Here are some ideas to get you started:
   </div>
 </div>
 
+### 기술 경험
+- Java Servlet & JSP, Js, Vue.js를 활용한 인사 시스템 유지보수 및 개발 경험
+- Spring Boot, Swagger, MyBatis, Docker를 활용한 신규 프로젝트 개발 경험
+- React, Mue, Ts, Js 등 frontend 환경의 개발도 경험해 봄
+- linux, KT Server, OCI를 통해 운영 경험
+  - CI/CD 자동화 및 배포가 없는 환경에서 배포 경험
+- 인프라 이관 경험
+
+#### 실무 경험
+#### 장애 대응 경험
+#### 프로젝트 경험
+
 ## 🎯 Goals Detail:
 1. 내 블로그 만들기
-  - Stack:
-    SSG: Astro
-    Deploy: Netlify
-  - 로그인 > OAuth 활용
-  - 백엔드 사용 > firebase? GCP? 직접 구현? 그 외?
-    주 기능: 댓글, Admin, 카테고리 분류, 강화된 검색, 간편한 글 확인, 시리즈
+  - Stack: Astro, Netlify
+  - Markdown 편집을 위한 로그인 구현
+  - 간단한 블로그로 제작 후 백엔드 연동 목표
   - 추가 기능: 생성형(Generative) AI 에이전트 구축
     포탈 기능: 추가 개발할 Toy 프로젝트 연결, 포트폴리오
 
@@ -244,14 +258,16 @@ Here are some ideas to get you started:
 
 3. AI 공부
   - ML, DL, NLP, LLM, Generative AI
+    - Learning at Coursera
 
 4. 이직 준비
 5. Github 레포 정리
 6. 오래된 프로젝트 관리
-  - 프로젝트 중 재사용 가능한 것을 선별하여 개선
+  - 과거 프로젝트 중 재사용 가능한 것을 선별하여 개선
   - 신규 프로젝트와 연결 목표 
 
 7. 나만의 사이트 개발
+8. 비즈니스 로직을 기획해 프로젝트 개발
 
 ### ⌛️ On Board:
 - [ ] 블로그 기본 형태 개발
@@ -262,6 +278,8 @@ Here are some ideas to get you started:
 - [ ] Github 레포 정리
 - [ ] 오래된 프로젝트 관리
   - [ ] 개선
+- [ ] 나만의 사이트 개발: 블로그 이후
+- [ ] 프로젝트 개발: 나만의 사이트 배포 이후
 
 ---
 <div style="text-align: left;">
