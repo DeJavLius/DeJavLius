@@ -41,164 +41,160 @@ Here are some ideas to get you started:
       </ol>
     </div>
   </div>
-  <div>
-    <span>
-      <table style="display: inline-block">
-        <thead>
-          <th>영역</th><th>SkillStack</th><th>level</th>
-        </thead>
-        <tbody>
-          <tr>
-            <td rowspan="5">Backend</td>
-            <td>
-              <img src="https://img.shields.io/badge/SpringFramework-6DB33F?style=flat-square&logo=Spring&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-            </td>
-            <td>⭐⭐</td>
-          </tr>
-          <tr>
-            <td>
-              <img src="https://img.shields.io/badge/MyBatis-000000?style=flat-square" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-            </td>
-            <td>⭐</td>
-          </tr>
-          <tr>
-            <td>
-              <img src="https://img.shields.io/badge/QueryDSL-000000?style=flat-square" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-            </td>
-            <td>⭐</td>
-          </tr>
-          <tr>
-            <td>
-              <img src="https://img.shields.io/badge/OracleDB-F80000?style=flat-square" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-            </td>
-            <td>⭐⭐</td>
-          </tr>
-          <tr>
-            <td>
-              <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-            </td>
-            <td>⭐</td>
-          </tr>
-          <tr>
-            <td rowspan="6">Frontend</td>
-            <td>
-              <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-            </td>
-            <td>⭐</td>
-          </tr>
-          <tr>
-            <td>
-              <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-            </td>
-            <td>⭐⭐</td>
-          </tr>
-          <tr>
-            <td>
-              <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-            </td>
-            <td>⭐</td>
-          </tr>
-          <tr>
-            <td>
-              <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-            </td>
-            <td>⭐</td>
-          </tr>
-          <tr>
-            <td>
-              <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-            </td>
-            <td>⭐⭐</td>
-          </tr>
-          <tr>
-            <td>
-              <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-            </td>
-            <td>⭐</td>
-          </tr>
-          <tr>
-            <td>Language & Backend</td>
-            <td>
-              <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=OpenJDK&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-            </td>
-            <td>⭐⭐⭐</td>
-          </tr>
-          <tr>
-            <td>Language</td>
-            <td>
-              <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-            </td>
-            <td>⭐⭐</td>
-          </tr>
-        </tbody>
-      </table>
-    </span>
-    <span>
-      <table style="display: inline-block">
-        <thead>
-          <th>영역</th><th>SkillStack</th><th>level</th>
-        </thead>
-        <tbody>
-          <tr>
-            <td rowspan="7">Backend</td>
-            <td>
-              <img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-            </td>
-            <td>⭐⭐</td>
-          </tr>
-          <tr>
-            <td>
-              <img src="https://img.shields.io/badge/Intellij-000000?style=flat-square&logo=intellijidea&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-            </td>
-            <td>⭐⭐⭐</td>
-          </tr>
-          <tr>
-            <td>
-              <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-            </td>
-            <td>⭐</td>
-          </tr>
-          <tr>
-            <td>
-              <img src="https://img.shields.io/badge/SVN-3E7FC1?style=flat-square" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-            </td>
-            <td>⭐</td>
-          </tr>
-          <tr>
-            <td>
-              <img src="https://img.shields.io/badge/Amazonec2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-            </td>
-            <td>⭐</td>
-          </tr>
-          <tr>
-            <td>
-              <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-            </td>
-            <td>⭐</td>
-          </tr>
-          <tr>
-            <td>
-              <img src="https://img.shields.io/badge/OCI-EC1C24?style=flat-square" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-            </td>
-            <td>⭐</td>
-          </tr>
-          <tr>
-            <td>Frontend & AI</td>
-            <td>
-              <img src="https://img.shields.io/badge/VSCode-3B99FC?style=flat-square" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-            </td>
-            <td>⭐⭐</td>
-          </tr>
-          <tr>
-            <td>*</td>
-            <td>
-              <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-            </td>
-            <td>⭐⭐⭐</td>
-          </tr>
-        </tbody>
-      </table>
-    </span>
+  <div align="center">
+    <table>
+      <thead>
+        <th>영역</th><th>SkillStack</th><th>level</th>
+      </thead>
+      <tbody>
+        <tr>
+          <td rowspan="5">Backend</td>
+          <td>
+            <img src="https://img.shields.io/badge/SpringFramework-6DB33F?style=flat-square&logo=Spring&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+          </td>
+          <td>⭐⭐</td>
+        </tr>
+        <tr>
+          <td>
+            <img src="https://img.shields.io/badge/MyBatis-000000?style=flat-square" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+          </td>
+          <td>⭐</td>
+        </tr>
+        <tr>
+          <td>
+            <img src="https://img.shields.io/badge/QueryDSL-000000?style=flat-square" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+          </td>
+          <td>⭐</td>
+        </tr>
+        <tr>
+          <td>
+            <img src="https://img.shields.io/badge/OracleDB-F80000?style=flat-square" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+          </td>
+          <td>⭐⭐</td>
+        </tr>
+        <tr>
+          <td>
+            <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+          </td>
+          <td>⭐</td>
+        </tr>
+        <tr>
+          <td rowspan="6">Frontend</td>
+          <td>
+            <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+          </td>
+          <td>⭐</td>
+        </tr>
+        <tr>
+          <td>
+            <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+          </td>
+          <td>⭐⭐</td>
+        </tr>
+        <tr>
+          <td>
+            <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+          </td>
+          <td>⭐</td>
+        </tr>
+        <tr>
+          <td>
+            <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+          </td>
+          <td>⭐</td>
+        </tr>
+        <tr>
+          <td>
+            <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+          </td>
+          <td>⭐⭐</td>
+        </tr>
+        <tr>
+          <td>
+            <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+          </td>
+          <td>⭐</td>
+        </tr>
+        <tr>
+          <td>Language & Backend</td>
+          <td>
+            <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=OpenJDK&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+          </td>
+          <td>⭐⭐⭐</td>
+        </tr>
+        <tr>
+          <td>Language</td>
+          <td>
+            <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+          </td>
+          <td>⭐⭐</td>
+        </tr>
+      </tbody>
+    </table>
+    <table>
+      <thead>
+        <th>영역</th><th>SkillStack</th><th>level</th>
+      </thead>
+      <tbody>
+        <tr>
+          <td rowspan="7">Backend</td>
+          <td>
+            <img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+          </td>
+          <td>⭐⭐</td>
+        </tr>
+        <tr>
+          <td>
+            <img src="https://img.shields.io/badge/Intellij-000000?style=flat-square&logo=intellijidea&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+          </td>
+          <td>⭐⭐⭐</td>
+        </tr>
+        <tr>
+          <td>
+            <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+          </td>
+          <td>⭐</td>
+        </tr>
+        <tr>
+          <td>
+            <img src="https://img.shields.io/badge/SVN-3E7FC1?style=flat-square" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+          </td>
+          <td>⭐</td>
+        </tr>
+        <tr>
+          <td>
+            <img src="https://img.shields.io/badge/Amazonec2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+          </td>
+          <td>⭐</td>
+        </tr>
+        <tr>
+          <td>
+            <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+          </td>
+          <td>⭐</td>
+        </tr>
+        <tr>
+          <td>
+            <img src="https://img.shields.io/badge/OCI-EC1C24?style=flat-square" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+          </td>
+          <td>⭐</td>
+        </tr>
+        <tr>
+          <td>Frontend & AI</td>
+          <td>
+            <img src="https://img.shields.io/badge/VSCode-3B99FC?style=flat-square" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+          </td>
+          <td>⭐⭐</td>
+        </tr>
+        <tr>
+          <td>*</td>
+          <td>
+            <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+          </td>
+          <td>⭐⭐⭐</td>
+        </tr>
+      </tbody>
+    </table>
   </div>
 </div>
 
