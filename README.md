@@ -190,14 +190,13 @@ Here are some ideas to get you started:
             <td>⭐⭐</td>
           </tr>
           <tr>
-            <td>*</td>
+            <td rowspan="2">*</td>
             <td>
               <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
             </td>
             <td>⭐⭐⭐</td>
           </tr>
           <tr>
-            <td>*</td>
             <td>
               <img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=github&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
             </td>
