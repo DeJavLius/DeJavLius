@@ -19,7 +19,8 @@ Here are some ideas to get you started:
   - 기술스택: Astro, Netlify, React, Typescript
 - 휴먼컨설팅그룹(HCG) 재직 중 (23.3 ~ )
   - 27년도 이직 목표
-  - PO R&D팀 시스템 개발자 (급여아웃소싱)
+  - PO R&D팀 시스템 백엔드 개발자 (급여아웃소싱)
+    - 실질적으로 Fullstack, front가 명확히 분리되어 있지 않음
     - 급여 업무 간 시스템 업무 도움 및 시스템 개선
     - 연말정산 시스템 개선
 - FullStack 개발자 목표
@@ -33,7 +34,7 @@ Here are some ideas to get you started:
       <ol>
         <li>영역: 어떠한 직무 또는 환경에서 사용했었는지</li>
         <li>level: 나의 활용 레벨 수준</li>
-        <ul style="list-style: none;">
+        <ul style="list-style: none; padding:0;">
           <li>⭐: 사용해봄, 익숙할 뿐 깊게 알지 못함</li>
           <li>⭐⭐: 어느정도 사용해 보았고 비즈니스에도 적용해 보았음</li>
           <li>⭐⭐⭐: 숙련되었거나 전문적인 수준임</li>
@@ -41,7 +42,7 @@ Here are some ideas to get you started:
       </ol>
     </div>
   </div>
-  <div align="center">
+  <div align="center" style="padding:5%;">
     <table>
       <thead>
         <th>영역</th><th>SkillStack</th><th>level</th>
@@ -118,83 +119,113 @@ Here are some ideas to get you started:
         <tr>
           <td>Language & Backend</td>
           <td>
-            <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=OpenJDK&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+            <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=OpenJDK&logoColor=red" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
           </td>
           <td>⭐⭐⭐</td>
         </tr>
         <tr>
           <td>Language</td>
           <td>
-            <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+            <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=F7DF1E" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
           </td>
           <td>⭐⭐</td>
         </tr>
       </tbody>
     </table>
-    <table>
-      <thead>
-        <th>영역</th><th>SkillStack</th><th>level</th>
-      </thead>
-      <tbody>
-        <tr>
-          <td rowspan="7">Backend</td>
-          <td>
-            <img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-          </td>
-          <td>⭐⭐</td>
-        </tr>
-        <tr>
-          <td>
-            <img src="https://img.shields.io/badge/Intellij-000000?style=flat-square&logo=intellijidea&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-          </td>
-          <td>⭐⭐⭐</td>
-        </tr>
-        <tr>
-          <td>
-            <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-          </td>
-          <td>⭐</td>
-        </tr>
-        <tr>
-          <td>
-            <img src="https://img.shields.io/badge/SVN-3E7FC1?style=flat-square" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-          </td>
-          <td>⭐</td>
-        </tr>
-        <tr>
-          <td>
-            <img src="https://img.shields.io/badge/Amazonec2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-          </td>
-          <td>⭐</td>
-        </tr>
-        <tr>
-          <td>
-            <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-          </td>
-          <td>⭐</td>
-        </tr>
-        <tr>
-          <td>
-            <img src="https://img.shields.io/badge/OCI-EC1C24?style=flat-square" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-          </td>
-          <td>⭐</td>
-        </tr>
-        <tr>
-          <td>Frontend & AI</td>
-          <td>
-            <img src="https://img.shields.io/badge/VSCode-3B99FC?style=flat-square" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-          </td>
-          <td>⭐⭐</td>
-        </tr>
-        <tr>
-          <td>*</td>
-          <td>
-            <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-          </td>
-          <td>⭐⭐⭐</td>
-        </tr>
-      </tbody>
-    </table>
+    <span style="margin:50px;">
+      <h3>Tools</h3>
+      <table>
+        <thead>
+          <th>영역</th><th>SkillStack</th><th>level</th>
+        </thead>
+        <tbody>
+          <tr>
+            <td rowspan="7">Backend</td>
+            <td>
+              <img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+            </td>
+            <td>⭐⭐</td>
+          </tr>
+          <tr>
+            <td>
+              <img src="https://img.shields.io/badge/Intellij-3027FF?style=flat-square&logo=intellijidea&logoColor=black" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+            </td>
+            <td>⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>
+              <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+            </td>
+            <td>⭐</td>
+          </tr>
+          <tr>
+            <td>
+              <img src="https://img.shields.io/badge/SVN-3E7FC1?style=flat-square" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+            </td>
+            <td>⭐</td>
+          </tr>
+          <tr>
+            <td>
+              <img src="https://img.shields.io/badge/Amazonec2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+            </td>
+            <td>⭐</td>
+          </tr>
+          <tr>
+            <td>
+              <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=black" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+            </td>
+            <td>⭐</td>
+          </tr>
+          <tr>
+            <td>
+              <img src="https://img.shields.io/badge/OCI-EC1C24?style=flat-square" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+            </td>
+            <td>⭐</td>
+          </tr>
+          <tr>
+            <td>Frontend & AI</td>
+            <td>
+              <img src="https://img.shields.io/badge/VSCode-3B99FC?style=flat-square" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+            </td>
+            <td>⭐⭐</td>
+          </tr>
+          <tr>
+            <td>*</td>
+            <td>
+              <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+            </td>
+            <td>⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>*</td>
+            <td>
+              <img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=github&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+            </td>
+            <td>⭐⭐</td>
+          </tr>
+          <tr>
+            <td rowspan="2">Editor</td>
+            <td>
+              <img src="https://img.shields.io/badge/Obsidian-111100?style=flat-square&logo=obsidian&logoColor=violet" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+            </td>
+            <td>⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>
+              <img src="https://img.shields.io/badge/Editplus-E12F1F?style=flat-square" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+            </td>
+            <td>⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Client</td>
+            <td>
+              <img src="https://img.shields.io/badge/Putty-1111FF?style=flat-square" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+            </td>
+            <td>⭐⭐⭐</td>
+          </tr>
+        </tbody>
+      </table>
+    </span>
   </div>
 </div>
 
@@ -238,13 +269,13 @@ Here are some ideas to get you started:
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2>
   <div align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=DeJavLius&bg_color=60,0e94af,22991a&title_color=ffffff&text_color=ffffff" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeJavLius&layout=compact&bg_color=60,0e94af,22991a&title_color=ffffff&text_color=ffffff"
-    />
+    <img src="https://github-readme-stats.vercel.app/api?username=DeJavLius&bg_color=60,0e94af,22991a&title_color=ffffff&text_color=ffffff" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeJavLius&layout=compact&bg_color=60,0e94af,22991a&title_color=ffffff&text_color=ffffff" />
   </div>
 </div>
 
 <div style="text-align: left;">
-  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br>
+  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Social </h2>
   <div align="center"> 
     <a href='https://link-devlog.netlify.app/blog/'> 
       <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://link-devlog.netlify.app/blog/"> 
@@ -259,7 +290,11 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lmo9903@gmail.com" /> 
     </a>
   </div>
-    <div align="center"> </div>
 </div>
 
-This page is initial setting by [readme 제작소](https://github-profile-readme-editor.netlify.app/)
+<div align="center" style="padding:10%">
+  This page is initial setup by 
+  <a href="https://github-profile-readme-editor.netlify.app/">
+    readme 제작소
+  </a>
+</div>
