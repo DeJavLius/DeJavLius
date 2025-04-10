@@ -34,7 +34,7 @@ Here are some ideas to get you started:
       <ol>
         <li>영역: 어떠한 직무 또는 환경에서 사용했었는지</li>
         <li>level: 나의 활용 레벨 수준</li>
-        <ul style="list-style: none; padding:0;">
+        <ul>
           <li>⭐: 사용해봄, 익숙할 뿐 깊게 알지 못함</li>
           <li>⭐⭐: 어느정도 사용해 보았고 비즈니스에도 적용해 보았음</li>
           <li>⭐⭐⭐: 숙련되었거나 전문적인 수준임</li>
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
       </ol>
     </div>
   </div>
-  <div align="center" style="padding:5%;">
+  <div align="center">
     <table>
       <thead>
         <th>영역</th><th>SkillStack</th><th>level</th>
@@ -132,7 +132,7 @@ Here are some ideas to get you started:
         </tr>
       </tbody>
     </table>
-    <span style="margin:50px;">
+    <span>
       <h3>Tools</h3>
       <table>
         <thead>
@@ -292,7 +292,7 @@ Here are some ideas to get you started:
   </div>
 </div>
 
-<div align="center" style="padding:10%">
+<div align="center">
   This page is initial setup by 
   <a href="https://github-profile-readme-editor.netlify.app/">
     readme 제작소
