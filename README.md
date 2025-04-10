@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 ## 현황
 - 🔭 블로그 개발 중
   - 기술스택: Astro, Netlify, React, Typescript
-- 휴먼컨설팅그룹(HCG) 재직 중 (23.3 ~ )
+- 🏢 휴먼컨설팅그룹(HCG) 재직 중 (23.3 ~ )
   - 27년도 이직 목표
   - PO R&D팀 시스템 백엔드 개발자 (급여아웃소싱)
     - 실질적으로 Fullstack, front가 명확히 분리되어 있지 않음
     - 급여 업무 간 시스템 업무 도움 및 시스템 개선
     - 연말정산 시스템 개선
-- FullStack 개발자 목표
+- 🌱 FullStack, DevOps 개발자 되기
   - 취미: AI 개발자
 
 <div>
@@ -231,31 +231,30 @@ Here are some ideas to get you started:
 
 ## 🎯 Goals Detail:
 1. 내 블로그 만들기
-- Stack:
-  SSG: Astro
-  Deploy: Netlify
-- 로그인 > OAuth 활용
-- 백엔드 사용 > firebase? GCP? 직접 구현? 그 외?
-  주 기능: 댓글, Admin, 카테고리 분류, 강화된 검색, 간편한 글 확인, 시리즈
-- 추가 기능: 생성형(Generative) AI 에이전트 구축
-  포탈 기능: 추가 개발할 Toy 프로젝트 연결, 포트폴리오
+  - Stack:
+    SSG: Astro
+    Deploy: Netlify
+  - 로그인 > OAuth 활용
+  - 백엔드 사용 > firebase? GCP? 직접 구현? 그 외?
+    주 기능: 댓글, Admin, 카테고리 분류, 강화된 검색, 간편한 글 확인, 시리즈
+  - 추가 기능: 생성형(Generative) AI 에이전트 구축
+    포탈 기능: 추가 개발할 Toy 프로젝트 연결, 포트폴리오
 
 2. 자격증 준비
-- 정보처리기사 실기
+  - 정보처리기사 실기
 
 3. AI 공부
-- ML, DL, NLP, LLM, Generative AI
+  - ML, DL, NLP, LLM, Generative AI
 
 4. 이직 준비
 5. Github 레포 정리
 6. 오래된 프로젝트 관리
-- 프로젝트 중 재사용 가능한 것을 선별하여 개선
-- 신규 프로젝트와 연결 목표 
+  - 프로젝트 중 재사용 가능한 것을 선별하여 개선
+  - 신규 프로젝트와 연결 목표 
 
 7. 나만의 사이트 개발
 
 ### ⌛️ On Board:
-
 - [ ] 블로그 기본 형태 개발
   - [ ] Astro + React 공부
   - [ ] JS, TS 재 공부
