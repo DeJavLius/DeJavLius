@@ -13,71 +13,203 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<style>
+  .table {
+    display: inline-block;
+  }
+</style>
+
 # ✨ 구현중심 개발자 ✨
-## Introduce
+## 현황
 - 🔭 블로그 개발 중
   - 기술스택: Astro, Netlify, React, Typescript
--  휴먼컨설팅그룹(HCG) 재직 중 (23.3 ~ )
-  -  27년도 이직 목표
-  -  PO R&D팀 시스템 개발자 (급여아웃소싱)
-    -  급여 업무 간 시스템 업무 도움 및 시스템 개선
-    -  연말정산 시스템 개선
--  FullStack 개발자 목표
-  -  취미: AI 개발자
-<div>
-  <h2>Skill</h2>
+- 휴먼컨설팅그룹(HCG) 재직 중 (23.3 ~ )
+  - 27년도 이직 목표
+  - PO R&D팀 시스템 개발자 (급여아웃소싱)
+    - 급여 업무 간 시스템 업무 도움 및 시스템 개선
+    - 연말정산 시스템 개선
+- FullStack 개발자 목표
+  - 취미: AI 개발자
 
+<div>
+  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🌟 Skill </h2>
+  <div>
+    <h3>설명</h3>
+    <div>
+      <ol>
+        <li>영역: 어떠한 직무 또는 환경에서 사용했었는지</li>
+        <li>level: 나의 활용 레벨 수준</li>
+        <ul style="list-style: none;">
+          <li>■◻◻: 사용해봄, 익숙할 뿐 깊게 알지 못함</li>
+          <li>■■◻: 어느정도 사용해 보았고 비즈니스에도 적용해 보았음</li>
+          <li>■■■: 숙련되었거나 전문적인 수준임</li>
+        </ul>
+      </ol>
+    </div>
+  </div>
+  <div>
+    <span>
+      <table>
+        <thead>
+          <th>영역</th><th>SkillStack</th><th>level</th>
+        </thead>
+        <tbody>
+          <tr>
+            <td rowspan="5">Backend</td>
+            <td>
+              <img src="https://img.shields.io/badge/SpringFramework-6DB33F?style=flat-square&logo=Spring&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+            </td>
+            <td>■■◻</td>
+          </tr>
+          <tr>
+            <td>
+              <img src="https://img.shields.io/badge/MyBatis-000000?style=flat-square" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+            </td>
+            <td>■◻◻</td>
+          </tr>
+          <tr>
+            <td>
+              <img src="https://img.shields.io/badge/QueryDSL-000000?style=flat-square" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+            </td>
+            <td>■◻◻</td>
+          </tr>
+          <tr>
+            <td>
+              <img src="https://img.shields.io/badge/OracleDB-F80000?style=flat-square" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+            </td>
+            <td>■■◻</td>
+          </tr>
+          <tr>
+            <td>
+              <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+            </td>
+            <td>■◻◻</td>
+          </tr>
+          <tr>
+            <td rowspan="6">Frontend</td>
+            <td>
+              <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+            </td>
+            <td>■◻◻</td>
+          </tr>
+          <tr>
+            <td>
+              <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+            </td>
+            <td>■■◻</td>
+          </tr>
+          <tr>
+            <td>
+              <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+            </td>
+            <td>■◻◻</td>
+          </tr>
+          <tr>
+            <td>
+              <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+            </td>
+            <td>■◻◻</td>
+          </tr>
+          <tr>
+            <td>
+              <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+            </td>
+            <td>■■◻</td>
+          </tr>
+          <tr>
+            <td>
+              <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+            </td>
+            <td>■◻◻</td>
+          </tr>
+          <tr>
+            <td>Language & Backend</td>
+            <td>
+              <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=OpenJDK&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+            </td>
+            <td>■■■</td>
+          </tr>
+          <tr>
+            <td>Language</td>
+            <td>
+              <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+            </td>
+            <td>■■◻</td>
+          </tr>
+        </tbody>
+      </table>
+    </span>
+    <span>
+      <table>
+        <thead>
+          <th>영역</th><th>SkillStack</th><th>level</th>
+        </thead>
+        <tbody>
+          <tr>
+            <td rowspan="7">Backend</td>
+            <td>
+              <img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+            </td>
+            <td>■■◻</td>
+          </tr>
+          <tr>
+            <td>
+              <img src="https://img.shields.io/badge/Intellij-000000?style=flat-square&logo=intellijidea&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+            </td>
+            <td>■■■</td>
+          </tr>
+          <tr>
+            <td>
+              <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+            </td>
+            <td>■◻◻</td>
+          </tr>
+          <tr>
+            <td>
+              <img src="https://img.shields.io/badge/SVN-3E7FC1?style=flat-square" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+            </td>
+            <td>■◻◻</td>
+          </tr>
+          <tr>
+            <td>
+              <img src="https://img.shields.io/badge/Amazonec2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+            </td>
+            <td>■◻◻</td>
+          </tr>
+          <tr>
+            <td>
+              <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+            </td>
+            <td>■◻◻</td>
+          </tr>
+          <tr>
+            <td>
+              <img src="https://img.shields.io/badge/OCI-EC1C24?style=flat-square" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+            </td>
+            <td>■◻◻</td>
+          </tr>
+          <tr>
+            <td>Frontend & AI</td>
+            <td>
+              <img src="https://img.shields.io/badge/VSCode-3B99FC?style=flat-square" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+            </td>
+            <td>■■◻</td>
+          </tr>
+          <tr>
+            <td>*</td>
+            <td>
+              <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+            </td>
+            <td>■■■</td>
+          </tr>
+        </tbody>
+      </table>
+    </span>
+  </div>
 </div>
 
-### Backend:
-#### Framework:
-<img src="https://img.shields.io/badge/SpringFramework-6DB33F?style=flat-square&logo=Spring&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-<img src="https://img.shields.io/badge/MyBatis-000000?style=flat-square" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-<img src="https://img.shields.io/badge/QueryDSL-000000?style=flat-square" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-
-#### Language:
-<img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=OpenJDK&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-<img src="https://img.shields.io/badge/OracleDB-F80000?style=flat-square" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-
-### Frontend:
-#### Framework:
-Blog: <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-
-#### Library:
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-
-#### Language:
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-
-### Other:
-#### Language:
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-
-#### Tools:
-<img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Intellij-000000?style=flat-square&logo=intellijidea&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-<img src="https://img.shields.io/badge/VSCode-3B99FC?style=flat-square" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-
-##### VCS:
-<img src="https://img.shields.io/badge/SVN-3E7FC1?style=flat-square" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-
-##### Deploy:
-<img src="https://img.shields.io/badge/Amazonec2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-<img src="https://img.shields.io/badge/OCI-EC1C24?style=flat-square" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-
-# 🔭 안녕 세계!
-
-## 🎯 Object Goals:
-
+## 🎯 Goals Detail:
 1. 내 블로그 만들기
-
 - Stack:
   SSG: Astro
   Deploy: Netlify
@@ -88,23 +220,20 @@ Blog: <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo
   포탈 기능: 추가 개발할 Toy 프로젝트 연결, 포트폴리오
 
 2. 자격증 준비
-
 - 정보처리기사 실기
 
 3. AI 공부
-
 - ML, DL, NLP, LLM, Generative AI
 
 4. 이직 준비
 5. Github 레포 정리
 6. 오래된 프로젝트 관리
-
 - 프로젝트 중 재사용 가능한 것을 선별하여 개선
-- 신규 프로젝트와 연결 목표
+- 신규 프로젝트와 연결 목표 
 
 7. 나만의 사이트 개발
 
-## ⌛️ Doing:
+### ⌛️ On Board:
 
 - [ ] 블로그 기본 형태 개발
   - [ ] Astro + React 공부
@@ -116,7 +245,6 @@ Blog: <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo
   - [ ] 개선
 
 ---
-
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2>
   <div align="center"> 
