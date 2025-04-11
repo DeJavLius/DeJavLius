@@ -294,7 +294,7 @@ Here are some ideas to get you started:
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Social </h2>
   <div align="center"> 
     <a href='https://link-devlog.netlify.app/blog/'> 
-      <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://link-devlog.netlify.app/blog/"> 
+      <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white&link=https://link-devlog.netlify.app/blog/"> 
     </a>
     <a href="https://blog.naver.com/lmo9903"> 
       <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=https://blog.naver.com/lmo9903" />
