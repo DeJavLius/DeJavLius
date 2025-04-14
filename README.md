@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 
 ## 소개
 - Backend Developer with Frontend..?
+  - 담당 중인 시스템의 프론트와 백 영역이 제대로 분리되어 있지 않아 영역과 상관없이 개발
 - 급여 아웃소싱을 진행하는 회사에서 급여 담당자와 고객사에서 발생하는 문의 & 오류를 처리함
 - 시스템 개선을 위한 요구사항이 발생하면 개발
   - 요구사항 분석, 설계서 작성, 개발, 매뉴얼 작성, 프로젝트 발표 순 진행
@@ -177,7 +178,7 @@ Here are some ideas to get you started:
             <td>
               <img src="https://img.shields.io/badge/SVN-3E7FC1?style=flat-square" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
             </td>
-            <td>⭐</td>
+            <td>⭐⭐</td>
           </tr>
           <tr>
             <td>
