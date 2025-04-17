@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 - 🌱 FullStack, DevOps 개발자 되기
 
 ### ⌛️ On Board:
-- [ ] 블로그 기본 형태 개발
+- [x] 블로그 기본 형태 개발
   - [ ] Astro + React 공부
-  - [ ] JS, TS 재 공부
-- [ ] 자격증 정보처리기사 실기 준비
+  - [x] JS, TS 재 공부
+- [x] 자격증 정보처리기사 실기 준비
 - [ ] AI 공부
-- [ ] Github 레포 정리
+- [x] Github 레포 정리
 - [ ] 오래된 프로젝트 관리
   - [ ] 개선
 - [ ] 나만의 사이트 개발: 블로그 이후
