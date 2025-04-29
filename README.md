@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# ✨ 구현중심 개발자 ✨
+# ✨ 다 배우는 개발자 ✨
 ## 현황
 - 🔭 블로그 개발 중
   - 기술스택: Astro, Netlify, React, Typescript
@@ -22,13 +22,14 @@ Here are some ideas to get you started:
 
 ### ⌛️ On Board:
 - [x] 블로그 기본 형태 개발
-  - [ ] Astro + React 공부
-  - [x] JS, TS 재 공부
-- [x] 자격증 정보처리기사 실기 준비
+  - [x] Astro + React 공부
+  - [x] ~~JS~~, TS 재 공부
+- [x] 자격증 정보처리기사 실기 결과 보기
 - [ ] AI 공부
 - [x] Github 레포 정리
 - [ ] 오래된 프로젝트 관리
   - [ ] 개선
+- [ ] 포트폴리오 정리: 경력 기술 및 추가 사항 기재
 - [ ] 나만의 사이트 개발: 블로그 이후
 - [ ] 프로젝트 개발: 나만의 사이트 배포 이후
 
