@@ -14,13 +14,18 @@ Here are some ideas to get you started:
 -->
 
 # ✨ 다 배우는 개발자 ✨
+
 ## 현황
+
 - 🔭 블로그 개발 중
   - 기술스택: Astro, Netlify, React, Typescript
 - 🏢 휴먼컨설팅그룹(HCG) 재직 중 (23.3 ~ )
 - 🌱 FullStack, DevOps 개발자 되기
 
+![obsidian](obsidian-icon.png) ❤️‍🔥
+
 ### ⌛️ On Board:
+
 - [x] 블로그 기본 형태 개발
   - [x] Astro + React 공부
   - [x] ~~JS~~, TS 재 공부
@@ -236,6 +241,7 @@ Here are some ideas to get you started:
 </div>
 
 ---
+
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2>
   <div align="center"> 
