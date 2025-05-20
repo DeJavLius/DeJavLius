@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 ### ⌛️ On Board:
 
 - [x] 블로그 기본 형태 개발
-  - [x] Astro + React 공부
-  - [x] ~~JS~~, TS 재 공부
-- [x] 자격증 정보처리기사 실기 결과 보기
+  - [x] Astro + React 공부 중
+  - [ ] 블로그 개발 중
+- [x] 자격증 정보처리기사 실기 결과 대기
 - [ ] AI 공부
 - [x] Github 레포 정리
 - [ ] 오래된 프로젝트 관리
