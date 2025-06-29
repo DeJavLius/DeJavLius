@@ -27,11 +27,8 @@ Here are some ideas to get you started:
 ### ⌛️ On Board:
 
 - [x] 블로그 기본 형태 개발
-  - [x] Astro + React 공부 중
   - [ ] 블로그 개발 중
-- [x] 자격증 정보처리기사 실기 결과 대기
 - [ ] AI 공부
-- [x] Github 레포 정리
 - [ ] 오래된 프로젝트 관리
   - [ ] 개선
 - [ ] 포트폴리오 정리: 경력 기술 및 추가 사항 기재
