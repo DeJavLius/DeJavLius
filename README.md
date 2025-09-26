@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 - [x] 블로그 기본 형태 개발
   - [ ] 블로그 개발 중
 - [ ] AI 공부
+- [ ] Spring 공부
 - [ ] 오래된 프로젝트 관리
   - [ ] 개선
 - [ ] 포트폴리오 정리: 경력 기술 및 추가 사항 기재
