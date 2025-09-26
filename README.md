@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# ✨ 다 배우는 개발자 ✨
+# Introduce
 
 ## 현황
 
